@@ -1,0 +1,41 @@
+{
+  "name": "VoiceOrder_demo_orders",
+  "columns": [
+    {
+      "name": "token",
+      "type": "string"
+    },
+    {
+      "name": "chatId",
+      "type": "string"
+    },
+    {
+      "name": "inputMessageId",
+      "type": "string"
+    },
+    {
+      "name": "telegramMessageId",
+      "type": "string"
+    },
+    {
+      "name": "payload",
+      "type": "string"
+    },
+    {
+      "name": "status",
+      "type": "string"
+    },
+    {
+      "name": "claimExecutionId",
+      "type": "string"
+    },
+    {
+      "name": "expiresAt",
+      "type": "date"
+    },
+    {
+      "name": "confirmedAt",
+      "type": "date"
+    }
+  ]
+}

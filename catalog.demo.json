@@ -1,0 +1,7 @@
+[
+  {"sku":"COFFEE-250","name":"Кофе молотый 250 г","unit":"упаковка","packSize":{"amount":250,"unit":"g"},"price":2400,"currency":"KZT","aliases":["кофе","молотый кофе","ұнтақталған кофе","кофе 250 г"]},
+  {"sku":"TEA-BLACK-100","name":"Чай чёрный 100 г","unit":"упаковка","packSize":{"amount":100,"unit":"g"},"price":900,"currency":"KZT","aliases":["чёрный чай","черный чай","қара шай","шай қара"]},
+  {"sku":"TEA-GREEN-100","name":"Чай зелёный 100 г","unit":"упаковка","packSize":{"amount":100,"unit":"g"},"price":1100,"currency":"KZT","aliases":["зелёный чай","зеленый чай","көк шай","жасыл шай"]},
+  {"sku":"SUGAR-1KG","name":"Сахар 1 кг","unit":"упаковка","packSize":{"amount":1000,"unit":"g"},"price":550,"currency":"KZT","aliases":["сахар","қант","сахар 1 кг"]},
+  {"sku":"WATER-1L","name":"Вода негазированная 1 л","unit":"бутылка","packSize":{"amount":1000,"unit":"ml"},"price":300,"currency":"KZT","aliases":["вода","су","вода без газа","негазированная вода"]}
+]
